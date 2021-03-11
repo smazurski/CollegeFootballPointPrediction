@@ -5,6 +5,7 @@ library(ggplot2)
 library(DBI)
 library(stats)
 library(caret)
+library(corrplot)
 
 urlfile<-'https://raw.githubusercontent.com/smazurski/ShinyData/master/Score_Prediction_Data.csv'
 Orig_Score_Data <- read_csv(urlfile)
@@ -13,13 +14,40 @@ Orig_Score_Data <- read_csv(urlfile)
 # view dataset
 glimpse(Orig_Score_Data)
 
+
 # remove non-predictor variables
 Orig_Score_Data <- Orig_Score_Data %>%
   select(-GameID, -Offense, -Defense)
 
+
+# View Corr plot
+Orig_Score_Data %>%
+  keep(is.numeric) %>%
+  cor() %>%
+  corrplot()
+
+
+#Remove Year
+Orig_Score_Data <- Orig_Score_Data %>%
+  select(-Year)
+
+
+# View Corr plot
+Orig_Score_Data %>%
+  keep(is.numeric) %>%
+  cor() %>%
+  corrplot()
+
+
 # Convert Conference and is_Home to Factor 
 Orig_Score_Data$is_home <- as.factor(Orig_Score_Data$is_home)
 Orig_Score_Data$OffConf <- as.factor(Orig_Score_Data$OffConf)
+
+
+# View continuous variables in plot
+Orig_Score_Data %>%
+  keep(is.numeric) %>%
+  plot()
 
 
 # View in Regression Model
