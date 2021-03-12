@@ -4,4 +4,4 @@
 
 * This application is meant to predict college football scores for the 2020 season.
 * The data is scraped from various sports statistics websites and aggregated into a multiple regression model.
-* 70% of the predictions score within 10 points.
+* 70% of the predictions score within 10 points of the target variable.
