@@ -7,5 +7,5 @@
 * 70% of the predictions score within 10 points of the target variable.
 
 
-![alt text](https://github.com/smazurski/ShinyData/blob/main/CFB_Shiny_App.PNG?raw=true) 
+![alt text](https://github.com/smazurski/ShinyData/blob/master/CFB_Shiny_App.PNG?raw=true) 
 
