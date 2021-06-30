@@ -1,6 +1,6 @@
 # College Football Point Predictions
 
-[College Football Prediction App](https://mazurski.shinyapps.io/CollegeFootballPredictions/)
+[College Football Prediction App](https://mazurski.shinyapps.io/CollegeFootballModels/)
 
 * This application is meant to predict college football scores for the 2020 season.
 * The data is scraped from various sports statistics websites and aggregated into a multiple regression model.
