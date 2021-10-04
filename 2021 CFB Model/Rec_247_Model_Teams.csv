@@ -113,12 +113,12 @@ data,year,fieldlength,team,Commits,Avg,Five_Stars,Four_Stars,Three_Stars,TotalRe
 2021 4 2 Fresno State 23 Commits 83.60 5-Star 0 4-Star 0 3-Star 19 162.17,2021,15,Fresno State ,23,83.60,0,0,19,162.17
 2021 5 5 Nevada 21 Commits 81.96 5-Star 0 4-Star 0 3-Star 20 148.64,2021,14,Nevada ,21,81.96,0,0,20,148.64
 2021 6 7 Colorado State 21 Commits 81.79 5-Star 0 4-Star 0 3-Star 19 144.67,2021,15,Colorado State ,21,81.79,0,0,19,144.67
-2021 7 8 New Mexico 23 Commits 81.27 5-Star 0 4-Star 0 3-Star 21 140.75,2021,15,New Mexico ,23,81.27,0,0,21,140.75
+2021 7 8 New Mexico 24 Commits 81.27 5-Star 0 4-Star 0 3-Star 21 140.75,2021,15,New Mexico ,24,81.27,0,0,21,140.75
 2021 8 6 Air Force 67 Commits 79.28 5-Star 0 4-Star 0 3-Star 14 139.91,2021,15,Air Force ,67,79.28,0,0,14,139.91
 2021 9 9 Wyoming 18 Commits 81.18 5-Star 0 4-Star 0 3-Star 17 130.41,2021,14,Wyoming ,18,81.18,0,0,17,130.41
 2021 10 11 San Jose State 12 Commits 81.52 5-Star 0 4-Star 0 3-Star 10 112.81,2021,16,San Jose State,12,81.52,0,0,10,112.81
 2021 11 10 Hawaii 12 Commits 82.33 5-Star 0 4-Star 0 3-Star 9 107.27,2021,14,Hawaii ,12,82.33,0,0,9,107.27
-2021 12 12 Utah State 6 Commits 82.19 5-Star 0 4-Star 0 3-Star 6 69.69,2021,15,Utah State ,6,82.19,0,0,6,69.69
+2021 12 12 Utah State 7 Commits 82.19 5-Star 0 4-Star 0 3-Star 6 69.69,2021,15,Utah State ,7,82.19,0,0,6,69.69
 2017 1 1 Texas State 26 Commits 79.17 5-Star 0 4-Star 0 3-Star 10 127.89,2017,15,Texas State ,26,79.17,0,0,10,127.89
 2017 2 4 Troy 23 Commits 79.29 5-Star 0 4-Star 0 3-Star 6 123.90,2017,14,Troy ,23,79.29,0,0,6,123.90
 2017 3 3 Louisiana-Monroe 24 Commits 78.63 5-Star 0 4-Star 0 3-Star 9 121.55,2017,14,Louisiana-Monroe ,24,78.63,0,0,9,121.55
@@ -509,7 +509,7 @@ data,year,fieldlength,team,Commits,Avg,Five_Stars,Four_Stars,Three_Stars,TotalRe
 2019 11 12 New Mexico 28 Commits 79.55 5-Star 0 4-Star 0 3-Star 12 126.28,2019,15,New Mexico ,28,79.55,0,0,12,126.28
 2019 12 10 San Jose State 19 Commits 80.01 5-Star 0 4-Star 0 3-Star 10 122.02,2019,16,San Jose State,19,80.01,0,0,10,122.02
 2020 1 1 Louisiana 21 Commits 82.93 5-Star 0 4-Star 0 3-Star 20 158.34,2020,14,Louisiana ,21,82.93,0,0,20,158.34
-2020 2 3 Troy 27 Commits 81.46 5-Star 0 4-Star 0 3-Star 19 156.65,2020,14,Troy ,27,81.46,0,0,19,156.65
+2020 2 3 Troy 28 Commits 81.48 5-Star 0 4-Star 0 3-Star 20 157.42,2020,14,Troy ,28,81.48,0,0,20,157.42
 2020 3 2 Appalachian State 20 Commits 82.57 5-Star 0 4-Star 0 3-Star 18 154.59,2020,15,Appalachian State ,20,82.57,0,0,18,154.59
 2020 4 5 Arkansas State 22 Commits 81.71 5-Star 0 4-Star 0 3-Star 17 148.75,2020,15,Arkansas State ,22,81.71,0,0,17,148.75
 2020 5 6 Coastal Carolina 25 Commits 81.52 5-Star 0 4-Star 0 3-Star 23 146.90,2020,15,Coastal Carolina ,25,81.52,0,0,23,146.90
@@ -628,10 +628,10 @@ data,year,fieldlength,team,Commits,Avg,Five_Stars,Four_Stars,Three_Stars,TotalRe
 2020 1 1 Boise State 21 Commits 84.39 5-Star 0 4-Star 0 3-Star 19 170.85,2020,15,Boise State ,21,84.39,0,0,19,170.85
 2020 2 2 UNLV 28 Commits 81.45 5-Star 0 4-Star 0 3-Star 22 160.84,2020,14,UNLV ,28,81.45,0,0,22,160.84
 2020 3 3 San Diego State 19 Commits 82.11 5-Star 0 4-Star 0 3-Star 16 149.72,2020,16,San Diego State,19,82.11,0,0,16,149.72
-2020 4 4 Fresno State 19 Commits 82.26 5-Star 0 4-Star 0 3-Star 17 146.72,2020,15,Fresno State ,19,82.26,0,0,17,146.72
-2020 5 10 New Mexico 25 Commits 80.73 5-Star 0 4-Star 0 3-Star 16 144.61,2020,15,New Mexico ,25,80.73,0,0,16,144.61
-2020 6 5 Air Force 46 Commits 79.97 5-Star 0 4-Star 0 3-Star 18 142.84,2020,15,Air Force ,46,79.97,0,0,18,142.84
-2020 7 6 Colorado State 18 Commits 81.85 5-Star 0 4-Star 0 3-Star 16 142.80,2020,15,Colorado State ,18,81.85,0,0,16,142.80
+2020 4 5 Fresno State 19 Commits 82.26 5-Star 0 4-Star 0 3-Star 17 146.72,2020,15,Fresno State ,19,82.26,0,0,17,146.72
+2020 5 4 Colorado State 19 Commits 81.95 5-Star 0 4-Star 0 3-Star 17 146.35,2020,15,Colorado State ,19,81.95,0,0,17,146.35
+2020 6 10 New Mexico 25 Commits 80.73 5-Star 0 4-Star 0 3-Star 16 144.61,2020,15,New Mexico ,25,80.73,0,0,16,144.61
+2020 7 6 Air Force 46 Commits 79.97 5-Star 0 4-Star 0 3-Star 18 142.84,2020,15,Air Force ,46,79.97,0,0,18,142.84
 2020 8 9 Wyoming 24 Commits 80.57 5-Star 0 4-Star 0 3-Star 18 138.13,2020,14,Wyoming ,24,80.57,0,0,18,138.13
 2020 9 7 San Jose State 19 Commits 81.03 5-Star 0 4-Star 0 3-Star 13 136.07,2020,16,San Jose State,19,81.03,0,0,13,136.07
 2020 10 8 Nevada 22 Commits 80.19 5-Star 0 4-Star 0 3-Star 14 134.40,2020,14,Nevada ,22,80.19,0,0,14,134.40
