@@ -1,0 +1,52 @@
+home_team,away_team,spread,over_under,home_points,away_points,rownumberid
+Toledo,Northern Illinois,-12.5,52,38.5,13.5,1
+Kent State,Buffalo,-5.5,65,38,27,2
+Bowling Green State,Akron,-14.5,46,37.5,8.5,3
+Ohio,Central Michigan,6,56.5,22.25,34.25,4
+Troy,Georgia Southern,-5.5,50.5,30.75,19.75,5
+Louisiana-Monroe,Georgia State,16,51,9.5,41.5,6
+Texas State,South Alabama,3.5,53,23,30,7
+Washington State,Oregon State,3.5,59.5,26.25,33.25,8
+Arizona,UCLA,16,61,14.5,46.5,9
+Brigham Young,Boise State,-5.5,56.5,33.75,22.75,10
+Air Force,Wyoming,-6,47,29.5,17.5,11
+Colorado State,San José State,-2,46,25,21,12
+USC,Utah,-3,52.5,29.25,23.25,13
+Texas,Oklahoma,3.5,63.5,28.25,35.25,14
+Texas Tech,TCU,NA,61,NA,NA,15
+UCF,East Carolina,-10,67.5,43.75,23.75,16
+Tulsa,Memphis,-3.5,61.5,34.25,27.25,17
+Navy,SMU,13.5,56,14.5,41.5,18
+Eastern Michigan,Miami (OH),2,59,27.5,31.5,19
+Western Michigan,Ball State,-11,57.5,39.75,17.75,20
+San Diego State,New Mexico,-19.5,42,40.5,1.5,21
+Nevada,New Mexico State,-31.5,63,63,0,22
+Tulane,Houston,6,60,24,36,23
+Arkansas State,Coastal Carolina,19.5,73,17,56,24
+Cincinnati,Temple,-29,54,56,-2,25
+Arizona State,Stanford,-12,51,37.5,13.5,26
+Auburn,Georgia,15,45.5,7.75,37.75,27
+Florida,Vanderbilt,-38,59.5,67.75,-8.25,28
+Kentucky,LSU,-3,50,28,22,29
+Ole Miss,Arkansas,-6,66.5,39.25,27.25,30
+Missouri,North Texas,-19,67.5,52.75,14.75,31
+Tennessee,South Carolina,-10.5,57,39,18,32
+Texas A&M,Alabama,18,51.5,7.75,43.75,33
+Florida International,Charlotte,3.5,60,26.5,33.5,34
+UAB,Florida Atlantic,-4.5,49,29,20,35
+Marshall,Old Dominion,-21,65.5,53.75,11.75,36
+Southern Mississippi,UTEP,2.5,44.5,19.75,24.75,37
+Western Kentucky,UTSA,-3.5,69.5,38.25,31.25,38
+Liberty,Middle Tennessee,-19.5,58,48.5,9.5,39
+Duke,Georgia Tech,3.5,61,27,34,40
+Louisville,Virginia,-2.5,69.5,37.25,32.25,41
+North Carolina,Florida State,-17.5,64.5,49.75,14.75,42
+Syracuse,Wake Forest,6.5,57,22,35,43
+Virginia Tech,Notre Dame,1,47,22.5,24.5,44
+Illinois,Wisconsin,10,42.5,11.25,31.25,45
+Iowa,Penn State,-2,41,22.5,18.5,46
+Ohio State,Maryland,-21,69,55.5,13.5,47
+Nebraska,Michigan,3.5,50.5,21.75,28.75,48
+Rutgers,Michigan State,5,50,20,30,49
+Massachusetts,Connecticut,3.5,55,24,31,50
+Baylor,West Virginia,-3,44.5,25.25,19.25,51
