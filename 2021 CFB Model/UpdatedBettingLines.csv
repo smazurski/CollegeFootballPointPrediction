@@ -1,54 +1,213 @@
 home_team,away_team,spread,spread_open,over_under,over_under_open,provider,home_points,away_points,rownumberid
-Tulane,Cincinnati,24.5,25.0,62,63.0,Bovada,6.5,55.5,1
-East Carolina,South Florida,-9.5,-9.0,56,57.0,Bovada,37.5,18.5,2
-Houston,SMU,-1,-1.0,62.5,62.5,Bovada,32.25,30.25,3
-Buffalo,Bowling Green State,-14,-12.5,51.5,53.5,Bovada,39.75,11.75,4
-Appalachian State,Louisiana-Monroe,-27.5,-27.0,58,60.0,Bovada,56.5,1.5,5
-South Alabama,Arkansas State,-9,-10.0,67,67.0,Bovada,42.5,24.5,6
-Georgia Southern,Georgia State,5,5.5,54.5,55.0,Bovada,22.25,32.25,7
-San José State,Wyoming,-3,-3.5,41,40.0,Bovada,23.5,17.5,8
-San Diego State,Fresno State,-1,-1.0,45,46.5,Bovada,23.5,21.5,9
-Louisiana,Texas State,-21,-20.0,57,56.5,Bovada,49.5,7.5,10
-Oregon,Colorado,-24,-26.0,49,48.5,Bovada,48.5,0.5,11
-Arizona State,Washington State,-15,-15.0,52,51.5,Bovada,41,11,12
-USC,Arizona,-21,-20.5,56.5,56.5,Bovada,49.25,7.25,13
-Utah,UCLA,-6.5,-4.5,60.5,61.0,Bovada,36.75,23.75,14
-Colorado State,Boise State,2.5,2.5,51,51.0,Bovada,23,28,15
-Utah State,Hawai'i,-5.5,-6.5,65,66.5,Bovada,38,27,16
-Nevada,UNLV,-20.5,-20.5,58,59.0,Bovada,49.5,8.5,17
-California,Oregon State,1.5,1.5,55,56.0,Bovada,26,29,18
-Stanford,Washington,-2.5,-2.5,48,48.0,Bovada,26.5,21.5,19
-Coastal Carolina,Troy,-18,-18.5,52,52.0,Bovada,44,8,20
-Tulsa,Navy,-11,-10.0,47,48.0,Bovada,34.5,12.5,21
-Auburn,Ole Miss,-3,-1.0,66,66.5,Bovada,36,30,22
-Florida,Georgia,14.5,14.5,50.5,50.0,Bovada,10.75,39.75,23
-Mississippi State,Kentucky,1,1.0,47,47.0,Bovada,22.5,24.5,24
-Vanderbilt,Missouri,16,17.0,63,62.5,Bovada,15.5,47.5,25
-Western Kentucky,Charlotte,-17.5,-18.5,73,73.0,Bovada,54,19,26
-Marshall,Florida International,-21.5,-22.0,65.5,66.0,Bovada,54.25,11.25,27
-Florida Atlantic,UTEP,-11.5,-12.0,47.5,48.0,Bovada,35.25,12.25,28
-Old Dominion,Louisiana Tech,5.5,5.5,52.5,53.0,Bovada,20.75,31.75,29
-Middle Tennessee,Southern Mississippi,-13.5,-14.0,48,48.0,Bovada,37.5,10.5,30
-Rice,North Texas,-2.5,-2.0,57,55.0,Bovada,31,26,31
-Brigham Young,Virginia,-2.5,-2.5,63.5,64.0,Bovada,34.25,29.25,32
-Clemson,Florida State,-10,-10.0,47.5,46.0,Bovada,33.75,13.75,33
-Georgia Tech,Virginia Tech,-4,-3.5,56,55.0,Bovada,32,24,34
-NC State,Louisville,-7,-7.0,57,59.0,Bovada,35.5,21.5,35
-Notre Dame,North Carolina,-3.5,-3.5,62.5,62.5,Bovada,34.75,27.75,36
-Pittsburgh,Miami,-9.5,-11.5,62,62.0,Bovada,40.5,21.5,37
-Syracuse,Boston College,-5.5,-4.5,51,51.5,Bovada,31,20,38
-Wake Forest,Duke,-16.5,-16.0,70,69.0,Bovada,51.5,18.5,39
-Illinois,Rutgers,1.5,0.0,42.5,42.0,Bovada,19.75,22.75,40
-Maryland,Indiana,-5,-2.5,50.5,50.5,Bovada,30.25,20.25,41
-Wisconsin,Iowa,-3.5,-3.5,37,37.0,Bovada,22,15,42
-Michigan State,Michigan,4.5,4.0,50.5,51.0,Bovada,20.75,29.75,43
-Northwestern,Minnesota,7.5,7.5,43.5,43.5,Bovada,14.25,29.25,44
-Nebraska,Purdue,-7.5,-7.0,50.5,48.5,Bovada,32.75,17.75,45
-Ohio State,Penn State,-19,-17.5,60,59.5,Bovada,49,11,46
-Liberty,Massachusetts,-36.5,-36.5,58.5,60.0,Bovada,65.75,-7.25,47
-Baylor,Texas,-2.5,-2.5,61,62.0,Bovada,33,28,48
-Kansas State,TCU,-3,-3.5,58.5,59.5,Bovada,32.25,26.25,49
-Oklahoma,Texas Tech,-20,-19.0,66,68.5,Bovada,53,13,50
-Oklahoma State,Kansas,-30.5,-31.0,54,57.5,Bovada,57.5,-3.5,51
-West Virginia,Iowa State,7,7.0,47.5,47.0,Bovada,16.75,30.75,52
-Temple,UCF,10.5,10.5,51.5,52.0,Bovada,15.25,36.25,53
+Tulane,Cincinnati,28.5,25.0,61.5,63.0,Bovada,2.25,59.25,1
+Tulane,Cincinnati,28,NA,61.5,NA,William Hill (New Jersey),2.75,58.75,2
+Tulane,Cincinnati,28,NA,61.5,NA,consensus,2.75,58.75,3
+Tulane,Cincinnati,27.5,NA,61.5,NA,teamrankings,3.25,58.25,4
+East Carolina,South Florida,-9.5,-9.0,56,57.0,Bovada,37.5,18.5,5
+East Carolina,South Florida,-9.5,NA,55.5,NA,William Hill (New Jersey),37.25,18.25,6
+East Carolina,South Florida,-9.5,NA,55.5,NA,consensus,37.25,18.25,7
+East Carolina,South Florida,-9.5,NA,55.5,NA,teamrankings,37.25,18.25,8
+Houston,SMU,0,-1.0,61.5,62.5,Bovada,30.75,30.75,9
+Houston,SMU,1,NA,61.5,NA,William Hill (New Jersey),29.75,31.75,10
+Houston,SMU,1,NA,61.5,NA,consensus,29.75,31.75,11
+Houston,SMU,1,NA,61.5,NA,teamrankings,29.75,31.75,12
+Buffalo,Bowling Green State,-13.5,-12.5,51.5,53.5,Bovada,39.25,12.25,13
+Buffalo,Bowling Green State,-13.5,NA,51.5,NA,William Hill (New Jersey),39.25,12.25,14
+Buffalo,Bowling Green State,-13.5,NA,51.5,NA,consensus,39.25,12.25,15
+Buffalo,Bowling Green State,-13.5,NA,51.5,NA,teamrankings,39.25,12.25,16
+Appalachian State,Louisiana-Monroe,-27,-27.0,58,60.0,Bovada,56,2,17
+Appalachian State,Louisiana-Monroe,-27,NA,57.5,NA,William Hill (New Jersey),55.75,1.75,18
+Appalachian State,Louisiana-Monroe,-27,NA,57.5,NA,consensus,55.75,1.75,19
+Appalachian State,Louisiana-Monroe,-26.5,NA,57.5,NA,teamrankings,55.25,2.25,20
+South Alabama,Arkansas State,-9,-10.0,66,67.0,Bovada,42,24,21
+South Alabama,Arkansas State,-9,NA,66,NA,William Hill (New Jersey),42,24,22
+South Alabama,Arkansas State,-9,NA,66,NA,consensus,42,24,23
+South Alabama,Arkansas State,-9.5,NA,67,NA,teamrankings,43,24,24
+Georgia Southern,Georgia State,6,5.5,55,55.0,Bovada,21.5,33.5,25
+Georgia Southern,Georgia State,6,NA,55,NA,William Hill (New Jersey),21.5,33.5,26
+Georgia Southern,Georgia State,6,NA,55,NA,consensus,21.5,33.5,27
+Georgia Southern,Georgia State,6,NA,55,NA,teamrankings,21.5,33.5,28
+San José State,Wyoming,-3,-3.5,40.5,40.0,Bovada,23.25,17.25,29
+San José State,Wyoming,-3,NA,40.5,NA,William Hill (New Jersey),23.25,17.25,30
+San José State,Wyoming,-3,NA,40.5,NA,consensus,23.25,17.25,31
+San José State,Wyoming,-3,NA,40,NA,teamrankings,23,17,32
+San Diego State,Fresno State,1.5,-1.0,44.5,46.5,Bovada,20.75,23.75,33
+San Diego State,Fresno State,2,NA,44,NA,William Hill (New Jersey),20,24,34
+San Diego State,Fresno State,2.5,NA,44.5,NA,consensus,19.75,24.75,35
+San Diego State,Fresno State,2,NA,43.5,NA,teamrankings,19.75,23.75,36
+Louisiana,Texas State,-21,-20.0,58,56.5,Bovada,50,8,37
+Louisiana,Texas State,-21,NA,58,NA,William Hill (New Jersey),50,8,38
+Louisiana,Texas State,-21,NA,58,NA,consensus,50,8,39
+Louisiana,Texas State,-21,NA,58,NA,teamrankings,50,8,40
+Oregon,Colorado,-24.5,-26.0,49.5,48.5,Bovada,49.25,0.25,41
+Oregon,Colorado,-24.5,NA,49.5,NA,William Hill (New Jersey),49.25,0.25,42
+Oregon,Colorado,-24.5,NA,49.5,NA,consensus,49.25,0.25,43
+Oregon,Colorado,-24.5,NA,49,NA,teamrankings,49,0,44
+Arizona State,Washington State,-16,-15.0,54,51.5,Bovada,43,11,45
+Arizona State,Washington State,-16.5,NA,54.5,NA,William Hill (New Jersey),43.75,10.75,46
+Arizona State,Washington State,-16.5,NA,54.5,NA,consensus,43.75,10.75,47
+Arizona State,Washington State,-16.5,NA,55.5,NA,teamrankings,44.25,11.25,48
+USC,Arizona,-21.5,-20.5,55,56.5,Bovada,49,6,49
+USC,Arizona,-21.5,NA,55.5,NA,William Hill (New Jersey),49.25,6.25,50
+USC,Arizona,-21.5,NA,55.5,NA,consensus,49.25,6.25,51
+USC,Arizona,-22,NA,55.5,NA,teamrankings,49.75,5.75,52
+Utah,UCLA,-6.5,-4.5,60.5,61.0,Bovada,36.75,23.75,53
+Utah,UCLA,-6,NA,60.5,NA,William Hill (New Jersey),36.25,24.25,54
+Utah,UCLA,-6.5,NA,60.5,NA,consensus,36.75,23.75,55
+Utah,UCLA,-6,NA,60.5,NA,teamrankings,36.25,24.25,56
+Colorado State,Boise State,2.5,2.5,51.5,51.0,Bovada,23.25,28.25,57
+Colorado State,Boise State,2,NA,51.5,NA,William Hill (New Jersey),23.75,27.75,58
+Colorado State,Boise State,2,NA,51.5,NA,consensus,23.75,27.75,59
+Colorado State,Boise State,2,NA,51.5,NA,teamrankings,23.75,27.75,60
+Utah State,Hawai'i,-5,-6.5,66,66.5,Bovada,38,28,61
+Utah State,Hawai'i,-3.5,NA,66,NA,William Hill (New Jersey),36.5,29.5,62
+Utah State,Hawai'i,-4.5,NA,66,NA,consensus,37.5,28.5,63
+Utah State,Hawai'i,-3.5,NA,66,NA,teamrankings,36.5,29.5,64
+Nevada,UNLV,-19,-20.5,58,59.0,Bovada,48,10,65
+Nevada,UNLV,-18.5,NA,58.5,NA,William Hill (New Jersey),47.75,10.75,66
+Nevada,UNLV,-19,NA,58.5,NA,consensus,48.25,10.25,67
+Nevada,UNLV,-19,NA,58,NA,teamrankings,48,10,68
+California,Oregon State,2,1.5,55.5,56.0,Bovada,25.75,29.75,69
+California,Oregon State,2,NA,56.5,NA,William Hill (New Jersey),26.25,30.25,70
+California,Oregon State,2,NA,56.5,NA,consensus,26.25,30.25,71
+California,Oregon State,2.5,NA,56.5,NA,teamrankings,25.75,30.75,72
+Stanford,Washington,-3,-2.5,46,48.0,Bovada,26,20,73
+Stanford,Washington,-2.5,NA,46,NA,William Hill (New Jersey),25.5,20.5,74
+Stanford,Washington,-2.5,NA,46,NA,consensus,25.5,20.5,75
+Stanford,Washington,-2.5,NA,45.5,NA,teamrankings,25.25,20.25,76
+Coastal Carolina,Troy,-17,-18.5,50.5,52.0,Bovada,42.25,8.25,77
+Coastal Carolina,Troy,-17,NA,50,NA,William Hill (New Jersey),42,8,78
+Coastal Carolina,Troy,-17,NA,50,NA,consensus,42,8,79
+Coastal Carolina,Troy,-17,NA,50,NA,teamrankings,42,8,80
+Tulsa,Navy,-11,-10.0,46.5,48.0,Bovada,34.25,12.25,81
+Tulsa,Navy,-11,NA,46,NA,William Hill (New Jersey),34,12,82
+Tulsa,Navy,-11,NA,46,NA,consensus,34,12,83
+Tulsa,Navy,-11,NA,46,NA,teamrankings,34,12,84
+Auburn,Ole Miss,-3,-1.0,67.5,66.5,Bovada,36.75,30.75,85
+Auburn,Ole Miss,-3,NA,67.5,NA,William Hill (New Jersey),36.75,30.75,86
+Auburn,Ole Miss,-3,NA,67.5,NA,consensus,36.75,30.75,87
+Auburn,Ole Miss,-3,NA,67.5,NA,teamrankings,36.75,30.75,88
+Florida,Georgia,14.5,14.5,51,50.0,Bovada,11,40,89
+Florida,Georgia,14,NA,50.5,NA,William Hill (New Jersey),11.25,39.25,90
+Florida,Georgia,14,NA,50.5,NA,consensus,11.25,39.25,91
+Florida,Georgia,14,NA,50,NA,teamrankings,11,39,92
+Mississippi State,Kentucky,-1.5,1.0,47,47.0,Bovada,25,22,93
+Mississippi State,Kentucky,-1,NA,47,NA,William Hill (New Jersey),24.5,22.5,94
+Mississippi State,Kentucky,-1,NA,47,NA,consensus,24.5,22.5,95
+Mississippi State,Kentucky,-1,NA,47,NA,teamrankings,24.5,22.5,96
+Vanderbilt,Missouri,16.5,17.0,62.5,62.5,Bovada,14.75,47.75,97
+Vanderbilt,Missouri,16,NA,62.5,NA,William Hill (New Jersey),15.25,47.25,98
+Vanderbilt,Missouri,16,NA,62.5,NA,consensus,15.25,47.25,99
+Vanderbilt,Missouri,16,NA,62.5,NA,teamrankings,15.25,47.25,100
+Western Kentucky,Charlotte,-17.5,-18.5,73,73.0,Bovada,54,19,101
+Western Kentucky,Charlotte,-19.5,NA,71.5,NA,William Hill (New Jersey),55.25,16.25,102
+Western Kentucky,Charlotte,-19.5,NA,72,NA,consensus,55.5,16.5,103
+Western Kentucky,Charlotte,-19.5,NA,71.5,NA,teamrankings,55.25,16.25,104
+Marshall,Florida International,-21.5,-22.0,64,66.0,Bovada,53.5,10.5,105
+Marshall,Florida International,-21.5,NA,64,NA,William Hill (New Jersey),53.5,10.5,106
+Marshall,Florida International,-21.5,NA,64,NA,consensus,53.5,10.5,107
+Marshall,Florida International,-21.5,NA,64,NA,teamrankings,53.5,10.5,108
+Florida Atlantic,UTEP,-11,-12.0,48.5,48.0,Bovada,35.25,13.25,109
+Florida Atlantic,UTEP,-11,NA,49,NA,William Hill (New Jersey),35.5,13.5,110
+Florida Atlantic,UTEP,-10.5,NA,49,NA,consensus,35,14,111
+Florida Atlantic,UTEP,-11,NA,49,NA,teamrankings,35.5,13.5,112
+Old Dominion,Louisiana Tech,4,5.5,52,53.0,Bovada,22,30,113
+Old Dominion,Louisiana Tech,4,NA,52.5,NA,William Hill (New Jersey),22.25,30.25,114
+Old Dominion,Louisiana Tech,4,NA,52.5,NA,consensus,22.25,30.25,115
+Old Dominion,Louisiana Tech,4,NA,52,NA,teamrankings,22,30,116
+Middle Tennessee,Southern Mississippi,-13,-14.0,47,48.0,Bovada,36.5,10.5,117
+Middle Tennessee,Southern Mississippi,-12.5,NA,47.5,NA,William Hill (New Jersey),36.25,11.25,118
+Middle Tennessee,Southern Mississippi,-12.5,NA,47.5,NA,consensus,36.25,11.25,119
+Middle Tennessee,Southern Mississippi,-12.5,NA,47,NA,teamrankings,36,11,120
+Rice,North Texas,-1.5,-2.0,55,55.0,Bovada,29,26,121
+Rice,North Texas,-1.5,NA,55,NA,William Hill (New Jersey),29,26,122
+Rice,North Texas,-1.5,NA,55,NA,consensus,29,26,123
+Rice,North Texas,-1.5,NA,55,NA,teamrankings,29,26,124
+Brigham Young,Virginia,-2.5,-2.5,66,64.0,Bovada,35.5,30.5,125
+Brigham Young,Virginia,-2,NA,67,NA,William Hill (New Jersey),35.5,31.5,126
+Brigham Young,Virginia,-2.5,NA,66.5,NA,consensus,35.75,30.75,127
+Brigham Young,Virginia,-2.5,NA,66.5,NA,teamrankings,35.75,30.75,128
+Clemson,Florida State,-9,-10.0,47.5,46.0,Bovada,32.75,14.75,129
+Clemson,Florida State,-9.5,NA,47.5,NA,William Hill (New Jersey),33.25,14.25,130
+Clemson,Florida State,-9.5,NA,47.5,NA,consensus,33.25,14.25,131
+Clemson,Florida State,-9.5,NA,47.5,NA,teamrankings,33.25,14.25,132
+Georgia Tech,Virginia Tech,-3.5,-3.5,55.5,55.0,Bovada,31.25,24.25,133
+Georgia Tech,Virginia Tech,-3.5,NA,55,NA,William Hill (New Jersey),31,24,134
+Georgia Tech,Virginia Tech,-3.5,NA,55.5,NA,consensus,31.25,24.25,135
+Georgia Tech,Virginia Tech,-3,NA,55,NA,teamrankings,30.5,24.5,136
+NC State,Louisville,-6,-7.0,56,59.0,Bovada,34,22,137
+NC State,Louisville,-6,NA,57,NA,William Hill (New Jersey),34.5,22.5,138
+NC State,Louisville,-6,NA,57,NA,consensus,34.5,22.5,139
+NC State,Louisville,-6,NA,57,NA,teamrankings,34.5,22.5,140
+Notre Dame,North Carolina,-3.5,-3.5,62.5,62.5,Bovada,34.75,27.75,141
+Notre Dame,North Carolina,-3.5,NA,62.5,NA,William Hill (New Jersey),34.75,27.75,142
+Notre Dame,North Carolina,-3.5,NA,62.5,NA,consensus,34.75,27.75,143
+Notre Dame,North Carolina,-3.5,NA,63,NA,teamrankings,35,28,144
+Pittsburgh,Miami,-10,-11.5,61,62.0,Bovada,40.5,20.5,145
+Pittsburgh,Miami,-9.5,NA,61,NA,William Hill (New Jersey),40,21,146
+Pittsburgh,Miami,-9.5,NA,61,NA,consensus,40,21,147
+Pittsburgh,Miami,-9.5,NA,61,NA,teamrankings,40,21,148
+Syracuse,Boston College,-6.5,-4.5,51,51.5,Bovada,32,19,149
+Syracuse,Boston College,-6.5,NA,51.5,NA,William Hill (New Jersey),32.25,19.25,150
+Syracuse,Boston College,-6.5,NA,51.5,NA,consensus,32.25,19.25,151
+Syracuse,Boston College,-6.5,NA,51.5,NA,teamrankings,32.25,19.25,152
+Wake Forest,Duke,-16.5,-16.0,71.5,69.0,Bovada,52.25,19.25,153
+Wake Forest,Duke,-16.5,NA,71.5,NA,William Hill (New Jersey),52.25,19.25,154
+Wake Forest,Duke,-16.5,NA,71.5,NA,consensus,52.25,19.25,155
+Wake Forest,Duke,-16.5,NA,71.5,NA,teamrankings,52.25,19.25,156
+Illinois,Rutgers,1.5,0.0,41,42.0,Bovada,19,22,157
+Illinois,Rutgers,1.5,NA,41.5,NA,Caesars (Pennsylvania),19.25,22.25,158
+Illinois,Rutgers,1.5,NA,41.5,NA,consensus,19.25,22.25,159
+Illinois,Rutgers,1.5,NA,41.5,NA,teamrankings,19.25,22.25,160
+Maryland,Indiana,-4,-2.5,48,50.5,Bovada,28,20,161
+Maryland,Indiana,-3.5,NA,48,NA,William Hill (New Jersey),27.5,20.5,162
+Maryland,Indiana,-3.5,NA,48,NA,consensus,27.5,20.5,163
+Maryland,Indiana,-3.5,NA,48,NA,teamrankings,27.5,20.5,164
+Wisconsin,Iowa,-3,-3.5,36,37.0,Bovada,21,15,165
+Wisconsin,Iowa,-3,NA,35.5,NA,William Hill (New Jersey),20.75,14.75,166
+Wisconsin,Iowa,-3,NA,36,NA,consensus,21,15,167
+Wisconsin,Iowa,-3,NA,35.5,NA,teamrankings,20.75,14.75,168
+Michigan State,Michigan,4,4.0,50,51.0,Bovada,21,29,169
+Michigan State,Michigan,4,NA,50.5,NA,William Hill (New Jersey),21.25,29.25,170
+Michigan State,Michigan,4,NA,50.5,NA,consensus,21.25,29.25,171
+Michigan State,Michigan,4,NA,50.5,NA,teamrankings,21.25,29.25,172
+Northwestern,Minnesota,7.5,7.5,43.5,43.5,Bovada,14.25,29.25,173
+Northwestern,Minnesota,7.5,NA,43.5,NA,William Hill (New Jersey),14.25,29.25,174
+Northwestern,Minnesota,7.5,NA,44,NA,consensus,14.5,29.5,175
+Northwestern,Minnesota,7.5,NA,43.5,NA,teamrankings,14.25,29.25,176
+Nebraska,Purdue,-7.5,-7.0,53.5,48.5,Bovada,34.25,19.25,177
+Nebraska,Purdue,-7.5,NA,54,NA,William Hill (New Jersey),34.5,19.5,178
+Nebraska,Purdue,-7.5,NA,54,NA,consensus,34.5,19.5,179
+Nebraska,Purdue,-7.5,NA,54,NA,teamrankings,34.5,19.5,180
+Ohio State,Penn State,-19.5,-17.5,60.5,59.5,Bovada,49.75,10.75,181
+Ohio State,Penn State,-18.5,NA,60.5,NA,William Hill (New Jersey),48.75,11.75,182
+Ohio State,Penn State,-18.5,NA,60.5,NA,consensus,48.75,11.75,183
+Ohio State,Penn State,-18.5,NA,60.5,NA,teamrankings,48.75,11.75,184
+Liberty,Massachusetts,-35.5,-36.5,56,60.0,Bovada,63.5,-7.5,185
+Liberty,Massachusetts,-35.5,NA,56,NA,William Hill (New Jersey),63.5,-7.5,186
+Liberty,Massachusetts,-35.5,NA,56,NA,consensus,63.5,-7.5,187
+Liberty,Massachusetts,-35.5,NA,56,NA,teamrankings,63.5,-7.5,188
+Baylor,Texas,-2.5,-2.5,62,62.0,Bovada,33.5,28.5,189
+Baylor,Texas,-2,NA,61.5,NA,William Hill (New Jersey),32.75,28.75,190
+Baylor,Texas,-2.5,NA,61.5,NA,consensus,33.25,28.25,191
+Baylor,Texas,-2,NA,61.5,NA,teamrankings,32.75,28.75,192
+Kansas State,TCU,-3.5,-3.5,58,59.5,Bovada,32.5,25.5,193
+Kansas State,TCU,-3.5,NA,58.5,NA,William Hill (New Jersey),32.75,25.75,194
+Kansas State,TCU,-3.5,NA,58.5,NA,consensus,32.75,25.75,195
+Kansas State,TCU,-3.5,NA,58.5,NA,teamrankings,32.75,25.75,196
+Oklahoma,Texas Tech,-19,-19.0,67.5,68.5,Bovada,52.75,14.75,197
+Oklahoma,Texas Tech,-19,NA,67,NA,William Hill (New Jersey),52.5,14.5,198
+Oklahoma,Texas Tech,-19,NA,67,NA,consensus,52.5,14.5,199
+Oklahoma,Texas Tech,-18.5,NA,67,NA,teamrankings,52,15,200
+Oklahoma State,Kansas,-29,-31.0,54.5,57.5,Bovada,56.25,-1.75,201
+Oklahoma State,Kansas,-29,NA,54.5,NA,William Hill (New Jersey),56.25,-1.75,202
+Oklahoma State,Kansas,-29,NA,54.5,NA,consensus,56.25,-1.75,203
+Oklahoma State,Kansas,-28.5,NA,54.5,NA,teamrankings,55.75,-1.25,204
+West Virginia,Iowa State,7.5,7.0,49,47.0,Bovada,17,32,205
+West Virginia,Iowa State,7.5,NA,49,NA,William Hill (New Jersey),17,32,206
+West Virginia,Iowa State,7.5,NA,49,NA,consensus,17,32,207
+West Virginia,Iowa State,7.5,NA,49,NA,teamrankings,17,32,208
+Temple,UCF,12,10.5,52,52.0,Bovada,14,38,209
+Temple,UCF,11.5,NA,52,NA,William Hill (New Jersey),14.5,37.5,210
+Temple,UCF,11.5,NA,52,NA,consensus,14.5,37.5,211
+Temple,UCF,12,NA,52,NA,teamrankings,14,38,212
