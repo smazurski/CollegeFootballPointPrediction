@@ -1,71 +1,16 @@
 home_team,away_team,spread,spread_open,over_under,over_under_open,provider,home_points,away_points,rownumberid
-California,UCLA,10,NA,60.5,NA,Bovada,20.25,40.25,1
-Florida State,Florida,-10,-10.0,58,NA,Bovada,39,19,2
-Miami (OH),Ball State,-2.5,-2.0,45,44.5,Bovada,25,20,3
-Miami (OH),Ball State,-2.5,NA,45,NA,William Hill (New Jersey),25,20,4
-Miami (OH),Ball State,-2.5,NA,45,NA,consensus,25,20,5
-Miami (OH),Ball State,-2.5,NA,45,NA,teamrankings,25,20,6
-Ohio,Bowling Green State,-5.5,-7.0,52.5,55.0,Bovada,31.75,20.75,7
-Ohio,Bowling Green State,-5.5,NA,52.5,NA,William Hill (New Jersey),31.75,20.75,8
-Ohio,Bowling Green State,-5.5,NA,52.5,NA,consensus,31.75,20.75,9
-Ohio,Bowling Green State,-5.5,NA,52.5,NA,teamrankings,31.75,20.75,10
-Ole Miss,Mississippi State,-2,-2.0,60.5,63.0,Bovada,32.25,28.25,11
-Cincinnati,Tulane,-1,-2.5,46.5,47.5,Bovada,24.25,22.25,12
-Texas,Baylor,-8.5,NA,56,55.5,Bovada,36.5,19.5,13
-Boise State,Utah State,-17,-16.5,51.5,52.0,Bovada,42.75,8.75,14
-Western Michigan,Toledo,7.5,NA,52.5,52.5,Bovada,18.75,33.75,15
-Arizona,Arizona State,-4,-4.0,65.5,64.0,Bovada,36.75,28.75,16
-Colorado State,New Mexico,-7.5,NA,35,NA,Bovada,25,10,17
-Iowa,Nebraska,-10.5,NA,38.5,38.0,Bovada,29.75,8.75,18
-Fresno State,Wyoming,-15,NA,50,50.0,Bovada,40,10,19
-Alabama,Auburn,-22,-22.0,49.5,49.5,Bovada,46.75,2.75,20
-Oregon State,Oregon,3.5,NA,58.5,58.0,Bovada,25.75,32.75,21
-Northwestern,Illinois,14.5,14.0,38,37.0,Bovada,4.5,33.5,22
-Wisconsin,Minnesota,-3,-3.0,36,35.0,Bovada,21,15,23
-Indiana,Purdue,10,10.0,54,54.0,Bovada,17,37,24
-Virginia Tech,Virginia,-1.5,NA,40,NA,Bovada,21.5,18.5,25
-SMU,Memphis,-4.5,-4.0,69.5,71.5,Bovada,39.25,30.25,26
-Georgia,Georgia Tech,-35.5,NA,48.5,49.0,Bovada,59.75,-11.25,27
-Ohio State,Michigan,-7.5,-7.5,56,57.0,Bovada,35.5,20.5,28
-Clemson,South Carolina,-14.5,NA,52,50.5,Bovada,40.5,11.5,29
-Oklahoma State,West Virginia,-8.5,-8.5,64,65.5,Bovada,40.5,23.5,30
-Massachusetts,Army,20,NA,45,45.0,Bovada,2.5,42.5,31
-Liberty,New Mexico State,-23.5,NA,51,51.0,Bovada,49,2,32
-Maryland,Rutgers,-14.5,-14.5,49,NA,Bovada,39,10,33
-James Madison,Coastal Carolina,-14,-14.0,53.5,53.5,Bovada,40.75,12.75,34
-South Alabama,Old Dominion,-15.5,-15.5,48,NA,Bovada,39.5,8.5,35
-Marshall,Georgia State,-6,NA,44.5,47.0,Bovada,28.25,16.25,36
-Florida Atlantic,Western Kentucky,7.5,7.5,61,NA,Bovada,23,38,37
-Temple,East Carolina,10,12.5,50,50.5,Bovada,15,35,38
-Buffalo,Kent State,-4,-4.5,53,53.0,Bovada,30.5,22.5,39
-Northern Illinois,Akron,-10,NA,53.5,54.0,Bovada,36.75,16.75,40
-North Texas,Rice,-14,NA,60,61.0,Bovada,44,16,41
-Kentucky,Louisville,-3.5,NA,43,NA,Bovada,25,18,42
-Arkansas State,Troy,13.5,NA,46,46.5,Bovada,9.5,36.5,43
-Duke,Wake Forest,3.5,NA,66.5,66.5,Bovada,29.75,36.75,44
-San José State,Hawai'i,-15,-15.0,57.5,57.0,Bovada,43.75,13.75,45
-Louisiana Tech,UAB,17.5,17.5,55.5,56.0,Bovada,10.25,45.25,46
-UTSA,UTEP,-17,-17.5,56.5,NA,Bovada,45.25,11.25,47
-Florida International,Middle Tennessee,20,19.5,55,55.0,Bovada,7.5,47.5,48
-Texas A&M,LSU,10,10.0,47.5,46.5,Bovada,13.75,33.75,49
-Vanderbilt,Tennessee,14,NA,64,66.0,Bovada,18,46,50
-USC,Notre Dame,-5,-5.0,64.5,63.0,Bovada,37.25,27.25,51
-Boston College,Syracuse,10.5,NA,47,47.0,Bovada,13,34,52
-Miami,Pittsburgh,6.5,NA,43.5,43.5,Bovada,15.25,28.25,53
-San Diego State,Air Force,1.5,1.5,44,44.5,Bovada,20.5,23.5,54
-Eastern Michigan,Central Michigan,2,1.5,55,54.0,Bovada,25.5,29.5,55
-North Carolina,NC State,-6.5,-6.0,56.5,NA,Bovada,34.75,21.75,56
-Missouri,Arkansas,3,3.0,55.5,55.0,Bovada,24.75,30.75,57
-TCU,Iowa State,-10,-10.0,47.5,NA,Bovada,33.75,13.75,58
-Colorado,Utah,29.5,30.0,52,NA,Bovada,-3.5,55.5,59
-Penn State,Michigan State,-18.5,-18.5,52.5,52.5,Bovada,44.75,7.75,60
-Louisiana-Monroe,Southern Mississippi,3,3.5,50,51.0,Bovada,22,28,61
-Texas State,Louisiana,5,NA,45,NA,Bovada,17.5,27.5,62
-UNLV,Nevada,-12.5,NA,49,50.5,Bovada,37,12,63
-Georgia Southern,Appalachian State,4.5,5.0,63,60.5,Bovada,27,36,64
-South Florida,UCF,19.5,20.0,68.5,69.5,Bovada,14.75,53.75,65
-Texas Tech,Oklahoma,2,2.5,63.5,63.5,Bovada,29.75,33.75,66
-Houston,Tulsa,-12,-12.0,67,67.5,Bovada,45.5,21.5,67
-Kansas State,Kansas,-11.5,-11.5,63,63.0,Bovada,43,20,68
-Washington State,Washington,2,NA,61,59.0,Bovada,28.5,32.5,69
-Stanford,Brigham Young,6.5,NA,57.5,58.0,Bovada,22.25,35.25,70
+Georgia,LSU,-17.5,-15.0,52,50.5,Bovada,43.5,8.5,1
+North Carolina,Clemson,8,7.5,63.5,62.0,Bovada,23.75,39.75,2
+Boise State,Fresno State,-3,-4.5,55,50.5,Bovada,30.5,24.5,3
+Ohio,Toledo,3,4.0,54.5,62.0,Bovada,24.25,30.25,4
+UTSA,North Texas,-8,-8.5,70,66.5,Bovada,43,27,5
+USC,Utah,-3,-1.0,67.5,65.5,Bovada,36.75,30.75,6
+Buffalo,Akron,-12,NA,55,NA,teamrankings,39.5,15.5,7
+Buffalo,Akron,-12,NA,55,NA,consensus,39.5,15.5,8
+Buffalo,Akron,-12,NA,54.5,NA,William Hill (New Jersey),39.25,15.25,9
+Buffalo,Akron,-12,-14.5,55,57.5,Bovada,39.5,15.5,10
+TCU,Kansas State,-2,-1.5,61.5,60.5,Bovada,32.75,28.75,11
+Troy,Coastal Carolina,-8,-4.5,47.5,48.5,Bovada,31.75,15.75,12
+Tulane,UCF,-4,-2.5,57,57.5,Bovada,32.5,24.5,13
+Michigan,Purdue,-16.5,-15.5,52,50.0,Bovada,42.5,9.5,14
+Jackson State,Southern,-20,-14.5,50.5,49.5,Bovada,45.25,5.25,15
